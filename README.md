@@ -1,0 +1,1 @@
+## Docker stuff for PanelMc
